@@ -1,8 +1,9 @@
 %define oname Quaternion
+# test
 
 Summary:	An IM client for the Matrix protocol
 Name:		quaternion
-Version:	0.0.9.2
+Version:	0000000
 Release:	1
 License:	GPLv3+
 Group:		Networking/Instant messaging
